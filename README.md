@@ -1,5 +1,4 @@
-## Hi there 👋
-
+I am a software engineer with a strong foundation in computer science, holding both a Master's and Bachelor's degree in the field. My experience developing and maintaining software applications has allowed me to hone my skills in coding, testing, debugging, and problem-solving. I'm driven by a collaborative spirit—much like the musicians in a dixieland jazz band—and I bring a meticulous and analytical approach to designing, refining, and delivering reliable, high-performance software solutions.
 <!--
 **nimamoradi/nimamoradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
