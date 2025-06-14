@@ -1,4 +1,12 @@
-I am a software engineer with a strong foundation in computer science, holding both a Master's and Bachelor's degree in the field. My experience developing and maintaining software applications has allowed me to hone my skills in coding, testing, debugging, and problem-solving. I'm driven by a collaborative spirit—much like the musicians in a dixieland jazz band—and I bring a meticulous and analytical approach to designing, refining, and delivering reliable, high-performance software solutions.
+## Hey buddy
+Hi, I'm a Software Developer passionate about turning bold visions into reality through structured thinking and persistent effort. I build robust, scalable systems and thrive on the complex challenges found in high-impact projects.
+
+What I Do
+- ☁️ Cloud & Scalability: Architected and built scalable cloud gaming platforms for web and Android.
+- ⚙️ Data Engineering: Designed and implemented high-throughput ELT pipelines.
+- 📱 Mobile Development: Developed modular Android wrappers to boost cross-application adaptability.
+- 💡 Problem Solving: Transform complex requirements into efficient, reliable, and well-documented code.
+I believe great software development is like a Dixieland jazz ensemble: a blend of individual skill, rigorous structure, and collaborative interplay. I'm always open to collaborating on forward-thinking projects with teams that value creativity and technical excellence.
 <!--
 **nimamoradi/nimamoradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
