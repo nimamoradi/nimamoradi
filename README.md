@@ -2,9 +2,10 @@
 Hi, I'm a Software Developer passionate about turning bold visions into reality through structured thinking and persistent effort. I build robust, scalable systems and thrive on the complex challenges found in high-impact projects.
 
 What I Do
+
+- 📱 Mobile Development: Developed modular Android wrappers to boost cross-application adaptability.
 - ☁️ Cloud & Scalability: Architected and built scalable cloud gaming platforms for web and Android.
 - ⚙️ Data Engineering: Designed and implemented high-throughput ELT pipelines.
-- 📱 Mobile Development: Developed modular Android wrappers to boost cross-application adaptability.
 - 💡 Problem Solving: Transform complex requirements into efficient, reliable, and well-documented code.
 I believe great software development is like a Dixieland jazz ensemble: a blend of individual skill, rigorous structure, and collaborative interplay. I'm always open to collaborating on forward-thinking projects with teams that value creativity and technical excellence.
 <!--
